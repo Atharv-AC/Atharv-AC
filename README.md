@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Atharv 👋
 
-<!--
-**Atharv-AC/Atharv-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
 
-Here are some ideas to get you started:
+I enjoy building **machine learning projects** and learning how models work from data preprocessing to evaluation and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* Python
+* Pandas & NumPy
+* Scikit-learn
+* Matplotlib
+* Machine Learning fundamentals
+
+---
+
+## 📂 Featured Projects
+
+🔹 Machine Learning Projects
+A collection of end-to-end ML pipelines including preprocessing, training, evaluation, and visualization.
+
+🔹 Student Pass/Fail Prediction
+Predicts student outcomes using Logistic Regression.
+
+🔹 Reading Score Prediction
+ML model to predict reading performance from academic features.
+
+---
+
+## 📈 Currently Learning
+
+* Feature engineering
+* Model optimization
+* Deployment (Streamlit / FastAPI)
+
+---
+
+## 🎯 Goals for 2026
+
+* Build 5 strong ML projects
+* Learn model deployment
+* Contribute to open-source
+
+---
+
+## 📫 Connect with Me
+
+GitHub: https://github.com/Atharv-AC
