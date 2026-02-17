@@ -27,6 +27,11 @@ Predicts student outcomes using Logistic Regression.
 🔹 Reading Score Prediction
 ML model to predict reading performance from academic features.
 
+## Live Demo
+Click here to open the dashboard:
+https://atharv-ac-ui-dashboard.streamlit.app/
+
+
 ---
 
 ## 📈 Currently Learning
