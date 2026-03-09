@@ -41,13 +41,16 @@ This project demonstrates **real ML engineering practices used in production sys
 
 Production-ready machine learning system with API deployment.
 
-### 🔹 Student Pass/Fail Prediction
+### 🔹 Student Pass/Fail Prediction 
 
 Machine learning model using **Logistic Regression** to predict student outcomes.
 
 ### 🔹 Reading Score Prediction
 
 Regression model that predicts student reading performance based on academic features.
+
+**🔗 Live Demo:**
+<a href="https://atharv-ac-ui-dashboard.streamlit.app/" target="_blank">Open Dashboard</a>
 
 ---
 
@@ -88,13 +91,6 @@ Regression model that predicts student reading performance based on academic fea
 ![Pandas](https://img.shields.io/badge/Pandas-purple)
 ![NumPy](https://img.shields.io/badge/NumPy-yellow)
 
----
-
-## 📊 GitHub Stats
-
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharv-AC&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-AC&layout=compact&theme=github_dark)
 
 ---
 
