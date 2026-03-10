@@ -50,7 +50,7 @@ Machine learning model using **Logistic Regression** to predict student outcomes
 Regression model that predicts student reading performance based on academic features.
 
 **🔗 Live Demo:**
-<a href="https://atharv-ac-ui-dashboard.streamlit.app/" target="_blank">Open Dashboard</a>
+<a href="https://predict-ui-dashboards.streamlit.app/" target="_blank">Open Dashboard</a>
 
 ---
 
