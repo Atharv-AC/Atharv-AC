@@ -1,17 +1,51 @@
 # Hi, I'm Atharv 👋
 
-🎓 Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+🎓 Student | 🤖 Aspiring Machine Learning Engineer | 🐍 Python Developer
 
-I enjoy building **machine learning systems and data-driven applications**.
-My focus is on understanding the **entire ML lifecycle** — from **data preprocessing and model training to deployment and API-based inference**.
+I build **production-style machine learning systems — not just models**.
+
+My focus is on:
+
+* designing end-to-end ML pipelines
+* building API-based inference systems
+* deploying scalable ML applications
+
+I’m especially interested in **ML engineering, system design, and real-world deployment**.
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 🏠 Production ML System — House Price Prediction
+## 🚗 Car Price Prediction — Production ML System
 
-A **production-style machine learning system** demonstrating how models move from **training → API → deployment**.
+A **production-grade machine learning system** demonstrating the full lifecycle:
+**training → API → database logging → deployment**
+
+**Tech Stack:**
+Python • Scikit-learn • FastAPI • Docker • MySQL • SQLAlchemy
+
+🔗 Live Demo
+https://car-price-ml-system.onrender.com/
+
+🔗 GitHub Repository
+https://github.com/Atharv-AC/Car-Price-ML-System
+
+**Key Highlights**
+
+* Reproducible ML training pipeline
+* Model artifact versioning
+* FastAPI inference service
+* Prediction logging using MySQL
+* Docker Compose multi-container deployment
+* Clean and modular system architecture
+
+👉 Demonstrates **real-world ML system design with monitoring capability**
+
+---
+
+## 🏠 House Price Prediction — ML System
+
+A **production-style ML system** showcasing deployment-ready architecture.
 
 **Tech Stack:**
 Python • Scikit-learn • FastAPI • Docker • Pytest
@@ -22,35 +56,39 @@ https://house-price-ml-system.onrender.com
 🔗 GitHub Repository
 https://github.com/Atharv-AC/house-price-ml-system
 
-**Key Features**
+**Key Highlights**
 
-* Reproducible training pipeline
-* Model artifact versioning
-* FastAPI prediction service
+* Training / inference separation
+* Model versioning
+* API-based predictions
 * Docker containerization
-* Automated testing
+* Automated testing (~89% coverage)
 * Web interface for predictions
-
-This project demonstrates **real ML engineering practices used in production systems**.
 
 ---
 
-# 📂 Projects
+# 📂 Other Projects
 
-### 🔹 House Price Prediction ML System
+### 🎓 Student Pass/Fail Prediction
 
-Production-ready machine learning system with API deployment.
+Classification model using Logistic Regression to predict student outcomes
 
-### 🔹 Student Pass/Fail Prediction 
+### 📊 Reading Score Prediction
 
-Machine learning model using **Logistic Regression** to predict student outcomes.
+Regression model with interactive Streamlit dashboard
 
-### 🔹 Reading Score Prediction
+🔗 https://predict-ui-dashboards.streamlit.app/
 
-Regression model that predicts student reading performance based on academic features.
+---
 
-**🔗 Live Demo:**
-<a href="https://predict-ui-dashboards.streamlit.app/" target="_blank">Open Dashboard</a>
+# 🏗 ML System Design Concepts
+
+* Training vs Inference separation
+* Model versioning strategies
+* API-based model serving
+* Prediction logging & monitoring
+* Containerized ML systems
+* Reproducible pipelines
 
 ---
 
@@ -78,6 +116,7 @@ Regression model that predicts student reading performance based on academic fea
 * Docker
 * Model Deployment
 * API Development
+* SQLAlchemy
 * Pytest
 
 ---
@@ -88,28 +127,51 @@ Regression model that predicts student reading performance based on academic fea
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
 ![Docker](https://img.shields.io/badge/Docker-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-purple)
 ![NumPy](https://img.shields.io/badge/NumPy-yellow)
 
+---
+
+# 📈 Impact
+
+* Built **production-grade ML systems** with deployment
+* Designed **end-to-end ML pipelines**
+* Implemented **real-world engineering practices** (logging, versioning, APIs)
+* Deployed live applications serving prediction requests
 
 ---
 
-# 📈 Currently Learning
+# 💡 What Makes My Projects Different
 
-* Feature engineering
-* Model optimization
-* Machine learning deployment
-* FastAPI & production ML systems
+Unlike typical ML projects:
+
+* No notebook-only work
+* Focus on **system design, not just models**
+* API + deployment included
+* Real-world ML engineering practices
+
+👉 I focus on **how machine learning works in production**
+
+---
+
+# 🧩 Currently Exploring
+
+* Advanced feature engineering
+* Model optimization techniques
+* ML system design patterns
+* Model monitoring & observability
+* CI/CD for ML pipelines
 
 ---
 
 # 🎯 Goals for 2026
 
-* Build **5 strong machine learning projects**
-* Learn **production ML deployment**
-* Improve **ML engineering skills**
-
+* Build **production-grade ML systems**
+* Learn **scalable ML system design**
+* Contribute to real-world ML projects
+* Prepare for **ML Engineer roles**
 
 ---
 
-⭐ Always exploring **machine learning systems, data science, and AI engineering.**
+⭐ Always exploring **machine learning systems, data science, and AI engineering**
