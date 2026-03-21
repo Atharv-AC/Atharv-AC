@@ -1,8 +1,8 @@
 # Hi, I'm Atharv 👋
 
-🎓 Student | 🤖 Aspiring Machine Learning Engineer | 🐍 Python Developer
+ Student | Machine Learning Engineer (focused on production systems) | Python Developer
 
-I build **production-style machine learning systems — not just models**.
+I build production-grade machine learning systems — from training pipelines to deployed APIs.
 
 My focus is on:
 
