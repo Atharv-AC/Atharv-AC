@@ -2,7 +2,7 @@
 
  Student | Machine Learning Engineer (focused on production systems) | Python Developer
 
-I build production-grade machine learning systems — from training pipelines to deployed APIs.
+I build production-oriented machine learning systems — from training pipelines to deployed APIs.
 
 My focus is on:
 
