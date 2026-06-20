@@ -1,69 +1,75 @@
 # Hi, I'm Atharv 👋
 
- Student | Machine Learning Engineer (focused on production systems) | Python Developer
+**Student | Python Developer | Machine Learning Enthusiast**
 
-I build production-oriented machine learning systems — from training pipelines to deployed APIs.
+I enjoy building machine learning applications and exploring how models can be deployed through APIs and web applications.
 
-My focus is on:
+My interests include:
 
-* designing end-to-end ML pipelines
-* building API-based inference systems
-* deploying scalable ML applications
+* Machine Learning
+* Python Development
+* Backend Development
+* API Design
+* Docker
+* System Design
 
-I’m especially interested in **ML engineering, system design, and real-world deployment**.
+I like working on projects that combine machine learning, software development, and deployment.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚗 Car Price Prediction — Production ML System
+## 🚗 Car Price Prediction — End-to-End ML Application
 
-A **production-grade machine learning system** demonstrating the full lifecycle:
-**training → API → database logging → deployment**
+A machine learning application demonstrating the complete workflow from model training to deployment.
 
-**Tech Stack:**
+**Tech Stack**
+
 Python • Scikit-learn • FastAPI • Docker • MySQL • SQLAlchemy
 
-🔗 Live Demo
+### 🔗 Live Demo
+
 https://car-price-ml-system.onrender.com/
 
-🔗 GitHub Repository
+### 🔗 GitHub Repository
+
 https://github.com/Atharv-AC/Car-Price-ML-System
 
-**Key Highlights**
+### Key Features
 
-* Reproducible ML training pipeline
-* Model artifact versioning
-* FastAPI inference service
-* Prediction logging using MySQL
-* Docker Compose multi-container deployment
-* Clean and modular system architecture
-
-👉 Demonstrates **real-world ML system design with monitoring capability**
+* Structured machine learning pipeline
+* Model version management
+* FastAPI prediction API
+* Prediction logging with MySQL
+* Docker-based deployment
+* Modular project architecture
 
 ---
 
-## 🏠 House Price Prediction — ML System
+## 🏠 House Price Prediction — ML Application
 
-A **production-style ML system** showcasing deployment-ready architecture.
+A machine learning project focused on deployment, testing, and maintainable architecture.
 
-**Tech Stack:**
+**Tech Stack**
+
 Python • Scikit-learn • FastAPI • Docker • Pytest
 
-🔗 Live Demo
+### 🔗 Live Demo
+
 https://house-price-ml-system.onrender.com
 
-🔗 GitHub Repository
+### 🔗 GitHub Repository
+
 https://github.com/Atharv-AC/house-price-ml-system
 
-**Key Highlights**
+### Key Features
 
-* Training / inference separation
-* Model versioning
-* API-based predictions
+* Training and inference workflow separation
+* Model version management
+* FastAPI-based predictions
 * Docker containerization
-* Automated testing (~89% coverage)
-* Web interface for predictions
+* Automated testing
+* Interactive prediction interface
 
 ---
 
@@ -71,24 +77,25 @@ https://github.com/Atharv-AC/house-price-ml-system
 
 ### 🎓 Student Pass/Fail Prediction
 
-Classification model using Logistic Regression to predict student outcomes
+Classification project using Logistic Regression to predict student outcomes.
 
 ### 📊 Reading Score Prediction
 
-Regression model with interactive Streamlit dashboard
+Regression project with an interactive Streamlit dashboard.
 
 🔗 https://predict-ui-dashboards.streamlit.app/
 
 ---
 
-# 🏗 ML System Design Concepts
+# 🏗 Concepts I've Explored
 
-* Training vs Inference separation
-* Model versioning strategies
+* Training and inference workflows
+* Model version management
 * API-based model serving
-* Prediction logging & monitoring
-* Containerized ML systems
-* Reproducible pipelines
+* Prediction logging
+* Containerized applications
+* Reproducible ML pipelines
+* Software testing
 
 ---
 
@@ -107,16 +114,17 @@ Regression model with interactive Streamlit dashboard
 ### Machine Learning
 
 * Scikit-learn
-* Model Evaluation
 * Feature Engineering
+* Model Evaluation
+* Regression & Classification
 
-### ML Engineering
+### Backend & Deployment
 
 * FastAPI
-* Docker
-* Model Deployment
-* API Development
 * SQLAlchemy
+* Docker
+* MySQL
+* REST APIs
 * Pytest
 
 ---
@@ -133,45 +141,14 @@ Regression model with interactive Streamlit dashboard
 
 ---
 
-# 📈 Impact
+# 📈 Highlights
 
-* Built **production-grade ML systems** with deployment
-* Designed **end-to-end ML pipelines**
-* Implemented **real-world engineering practices** (logging, versioning, APIs)
-* Deployed live applications serving prediction requests
-
----
-
-# 💡 What Makes My Projects Different
-
-Unlike typical ML projects:
-
-* No notebook-only work
-* Focus on **system design, not just models**
-* API + deployment included
-* Real-world ML engineering practices
-
-👉 I focus on **how machine learning works in production**
+* Built and deployed machine learning applications
+* Developed APIs for model serving
+* Worked with Docker and SQL databases
+* Implemented testing and version management
+* Created interactive web applications for predictions
 
 ---
 
-# 🧩 Currently Exploring
-
-* Advanced feature engineering
-* Model optimization techniques
-* ML system design patterns
-* Model monitoring & observability
-* CI/CD for ML pipelines
-
----
-
-# 🎯 Goals for 2026
-
-* Build **production-grade ML systems**
-* Learn **scalable ML system design**
-* Contribute to real-world ML projects
-* Prepare for **ML Engineer roles**
-
----
-
-⭐ Always exploring **machine learning systems, data science, and AI engineering**
+⭐ Interested in machine learning, backend development, and building useful software.
